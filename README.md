@@ -5,5 +5,7 @@ projeto de uma CPU
 os circuitos foram implementados no logisim
 
 autores:
+
 ciro grossi falsarella
+
 gabriel vicente rodrigues
