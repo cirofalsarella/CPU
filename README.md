@@ -7,6 +7,6 @@ os circuitos foram implementados no logisim
 
 autores:
 
-ciro grossi falsarella
+Ciro Grossi Falsarella
 
-gabriel vicente rodrigues
+Gabriel Vicente Rodrigues
